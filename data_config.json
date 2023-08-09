@@ -1,0 +1,6 @@
+{
+  "data_source": "csv",
+  "csv_file_path": "titanic.csv",
+  "sqlite_db_file": "titanic.db",
+  "table_name": "titanic_passengers"
+}
